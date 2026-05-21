@@ -79,7 +79,7 @@ Lo que se trabaja aquí va más allá de "usar LangChain con dos líneas":
 ```
 rag-chatbot-qwen-faiss/
 │
-├── RAG Chatbot.ipynb            ← Notebook principal (Colab-ready)
+├── RAG_Chatbot.ipynb            ← Notebook principal (Colab-ready)
 ├── README.md
 ├── requirements.txt
 └── sample_docs/                 ← Documentos de prueba opcionales
@@ -91,14 +91,14 @@ rag-chatbot-qwen-faiss/
 
 ```bash
 # Opción recomendada — Google Colab
-# Abrir RAG Chatbot.ipynb en Colab
+# Abrir RAG_Chatbot.ipynb en Colab
 # El notebook instala dependencias e inicia Gradio automáticamente
 
 # Local
 git clone https://github.com/byron-velasco/rag-chatbot-qwen-faiss.git
 cd rag-chatbot-qwen-faiss
 pip install -r requirements.txt
-jupyter notebook RAG Chatbot.ipynb
+jupyter notebook RAG_Chatbot.ipynb
 ```
 
 **requirements.txt**
