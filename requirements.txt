@@ -1,0 +1,9 @@
+transformers>=4.35
+sentence-transformers
+faiss-cpu
+gradio
+pymupdf
+python-docx
+openpyxl
+torch
+accelerate
